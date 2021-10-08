@@ -1,6 +1,10 @@
 # ColemakDH-no-AltGr
 
-Keyboard layout ColemakDH without AltGr. The AltGr keys can interfere with hotkeys that make use of the CTRL and ALT keys.
+This repo contains files to install [Colemak Mod-DH](https://colemakmods.github.io/mod-dh/) *without* AltGr.
+
+The standard [Colemak-DH Windows KLC installation files](https://github.com/ColemakMods/mod-dh/tree/master/klc) comes with AltGr enabled.
+
+However, the AltGr keys can interfere with hotkeys that make use of the CTRL and ALT keys.
 
 # Windows Installation
 
